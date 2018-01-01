@@ -1,0 +1,14 @@
+		img{
+			/*float:left;*/
+			width:50%;
+			height:50%;
+		}
+
+		body{
+			padding-top:30px;
+		}
+		#sasha{
+			width:200px;
+			height:200px;
+			border:2px solid red;
+		}
